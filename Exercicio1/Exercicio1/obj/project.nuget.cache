@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3CJM3X/kerJRAd7DqMxfgMo/Y8D2ZiK0sW/3ot1O93exjWCR/oOajUWBP+FB2UtSjmwowt4ahRPM6QGmdMYBsQ==",
+  "dgSpecHash": "l2DRan3NdANZ71YJZ14lg7zl9lh1T4XAYy59vYgMV8drB+My26ydIWRc3VeKFr+n/LWv6uL4KTHt5fDrH047+w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\david.tomas\\C5\\TA35\\TA35---API-ER-SQL\\Exercicio1\\Exercicio1\\Exercicio1.csproj",
+  "projectFilePath": "C:\\Users\\david.tomas\\C5\\TA34\\TA34---API-.NET-Core-Controllers-\\Exercicio1\\Exercicio1\\Exercicio1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\david.tomas\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\david.tomas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",

@@ -12,7 +12,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Configura la base de datos.
-builder.Services.AddDbContext<AppDbContext>();
+builder.Services.AddDbContext<APIContext>();
 
 // Registra los repositorios como servicios en el contenedor.
 builder.Services.AddScoped<IAsignadoRepository, AsignadoRepository>();

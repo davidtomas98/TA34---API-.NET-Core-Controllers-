@@ -6,9 +6,9 @@ namespace Exercicio4.Repositories
 {
     public class ReservaRepository : IReservaRepository
     {
-        private readonly AppDbContext _context;
+        private readonly APIContext _context;
 
-        public ReservaRepository(AppDbContext context)
+        public ReservaRepository(APIContext context)
         {
             _context = context;
         }

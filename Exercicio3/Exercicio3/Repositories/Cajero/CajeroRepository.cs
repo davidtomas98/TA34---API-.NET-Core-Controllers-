@@ -6,9 +6,9 @@ namespace Exercicio3.Repositories
 {
     public class CajeroRepository : ICajeroRepository
     {
-        private readonly AppDbContext _context;
+        private readonly APIContext _context;
 
-        public CajeroRepository(AppDbContext context)
+        public CajeroRepository(APIContext context)
         {
             _context = context;
         }

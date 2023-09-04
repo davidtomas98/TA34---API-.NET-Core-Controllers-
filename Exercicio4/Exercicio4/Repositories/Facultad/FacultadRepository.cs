@@ -6,9 +6,9 @@ namespace Exercicio4.Repositories
 {
     public class FacultadRepository : IFacultadRepository
     {
-        private readonly AppDbContext _context;
+        private readonly APIContext _context;
 
-        public FacultadRepository(AppDbContext context)
+        public FacultadRepository(APIContext context)
         {
             _context = context;
         }

@@ -11,7 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Configure db
-builder.Services.AddDbContext<AppDbContext>();
+builder.Services.AddDbContext<APIContext>();
 
 builder.Services.AddScoped<IPiezaRepository, PiezaRepository>();
 builder.Services.AddScoped<IProveedorRepository, ProveedorRepository>();

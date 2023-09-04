@@ -6,9 +6,9 @@ namespace Exercicio1.Repositories
 {
     public class SuministraRepository : ISuministraRepository
     {
-        private readonly AppDbContext _context;
+        private readonly APIContext _context;
 
-        public SuministraRepository(AppDbContext context)
+        public SuministraRepository(APIContext context)
         {
             _context = context;
         }

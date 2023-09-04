@@ -6,9 +6,9 @@ namespace Exercicio1.Repositories
 {
     public class ProveedorRepository : IProveedorRepository
     {
-        private readonly AppDbContext _context;
+        private readonly APIContext _context;
 
-        public ProveedorRepository(AppDbContext context)
+        public ProveedorRepository(APIContext context)
         {
             _context = context;
         }

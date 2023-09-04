@@ -6,9 +6,9 @@ namespace Exercicio3.Repositories
 {
     public class ProductoRepository : IProductoRepository
     {
-        private readonly AppDbContext _context;
+        private readonly APIContext _context;
 
-        public ProductoRepository(AppDbContext context)
+        public ProductoRepository(APIContext context)
         {
             _context = context;
         }

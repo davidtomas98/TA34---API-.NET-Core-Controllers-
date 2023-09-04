@@ -6,10 +6,10 @@ namespace Exercicio3.Repositories
 {
     public class VentaRepository : IVentaRepository
     {
-        private readonly AppDbContext _context;
+        private readonly APIContext _context;
 
         // Constructor que recibe el contexto de la base de datos
-        public VentaRepository(AppDbContext context)
+        public VentaRepository(APIContext context)
         {
             _context = context;
         }

@@ -6,9 +6,9 @@ namespace Exercicio3.Repositories
 {
     public class MaquinaRegistradoraRepository : IMaquinaRegistradoraRepository
     {
-        private readonly AppDbContext _context;
+        private readonly APIContext _context;
 
-        public MaquinaRegistradoraRepository(AppDbContext context)
+        public MaquinaRegistradoraRepository(APIContext context)
         {
             _context = context;
         }

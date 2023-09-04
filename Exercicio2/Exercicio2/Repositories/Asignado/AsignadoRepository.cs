@@ -6,9 +6,9 @@ namespace Exercicio2.Repositories
 {
     public class AsignadoRepository : IAsignadoRepository
     {
-        private readonly AppDbContext _dbContext;
+        private readonly APIContext _dbContext;
 
-        public AsignadoRepository(AppDbContext dbContext)
+        public AsignadoRepository(APIContext dbContext)
         {
             _dbContext = dbContext;
         }

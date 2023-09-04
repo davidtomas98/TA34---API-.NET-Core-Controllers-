@@ -6,9 +6,9 @@ namespace Exercicio4.Repositories
 {
     public class EquipoRepository : IEquipoRepository
     {
-        private readonly AppDbContext _context;
+        private readonly APIContext _context;
 
-        public EquipoRepository(AppDbContext context)
+        public EquipoRepository(APIContext context)
         {
             _context = context;
         }

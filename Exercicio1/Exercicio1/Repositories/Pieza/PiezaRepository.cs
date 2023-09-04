@@ -6,9 +6,9 @@ namespace Exercicio1.Repositories
 {
     public class PiezaRepository : IPiezaRepository
     {
-        private readonly AppDbContext _context;
+        private readonly APIContext _context;
 
-        public PiezaRepository(AppDbContext context)
+        public PiezaRepository(APIContext context)
         {
             _context = context; // Inyecta el contexto de la base de datos
         }

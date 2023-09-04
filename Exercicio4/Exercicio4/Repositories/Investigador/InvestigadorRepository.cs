@@ -6,9 +6,9 @@ namespace Exercicio4.Repositories
 {
     public class InvestigadorRepository : IInvestigadorRepository
     {
-        private readonly AppDbContext _context;
+        private readonly APIContext _context;
 
-        public InvestigadorRepository(AppDbContext context)
+        public InvestigadorRepository(APIContext context)
         {
             _context = context;
         }

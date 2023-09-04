@@ -11,7 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Configurar la base de datos
-builder.Services.AddDbContext<AppDbContext>();
+builder.Services.AddDbContext<APIContext>();
 
 // Configurar la inyección de dependencias para los repositorios
 builder.Services.AddScoped<ICajeroRepository, CajeroRepository>();

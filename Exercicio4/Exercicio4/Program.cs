@@ -11,7 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 // Configura la base de datos
-builder.Services.AddDbContext<AppDbContext>();
+builder.Services.AddDbContext<APIContext>();
 
 // Registra los repositorios en el contenedor de dependencias
 builder.Services.AddScoped<IFacultadRepository, FacultadRepository>();

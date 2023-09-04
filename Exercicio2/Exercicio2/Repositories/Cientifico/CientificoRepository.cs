@@ -6,9 +6,9 @@ namespace Exercicio2.Repositories
 {
     public class CientificoRepository : ICientificoRepository
     {
-        private readonly AppDbContext _dbContext;
+        private readonly APIContext _dbContext;
 
-        public CientificoRepository(AppDbContext dbContext)
+        public CientificoRepository(APIContext dbContext)
         {
             _dbContext = dbContext;
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david.tomas\\C5\\TA35\\TA35---API-ER-SQL\\Exercicio1\\Exercicio1\\Exercicio1.csproj": {}
+    "C:\\Users\\david.tomas\\C5\\TA34\\TA34---API-.NET-Core-Controllers-\\Exercicio1\\Exercicio1\\Exercicio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david.tomas\\C5\\TA35\\TA35---API-ER-SQL\\Exercicio1\\Exercicio1\\Exercicio1.csproj": {
+    "C:\\Users\\david.tomas\\C5\\TA34\\TA34---API-.NET-Core-Controllers-\\Exercicio1\\Exercicio1\\Exercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david.tomas\\C5\\TA35\\TA35---API-ER-SQL\\Exercicio1\\Exercicio1\\Exercicio1.csproj",
+        "projectUniqueName": "C:\\Users\\david.tomas\\C5\\TA34\\TA34---API-.NET-Core-Controllers-\\Exercicio1\\Exercicio1\\Exercicio1.csproj",
         "projectName": "Exercicio1",
-        "projectPath": "C:\\Users\\david.tomas\\C5\\TA35\\TA35---API-ER-SQL\\Exercicio1\\Exercicio1\\Exercicio1.csproj",
+        "projectPath": "C:\\Users\\david.tomas\\C5\\TA34\\TA34---API-.NET-Core-Controllers-\\Exercicio1\\Exercicio1\\Exercicio1.csproj",
         "packagesPath": "C:\\Users\\david.tomas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david.tomas\\C5\\TA35\\TA35---API-ER-SQL\\Exercicio1\\Exercicio1\\obj\\",
+        "outputPath": "C:\\Users\\david.tomas\\C5\\TA34\\TA34---API-.NET-Core-Controllers-\\Exercicio1\\Exercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\david.tomas\\AppData\\Roaming\\NuGet\\NuGet.Config",
