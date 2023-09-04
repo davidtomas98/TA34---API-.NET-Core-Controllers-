@@ -18,12 +18,6 @@ En este ejercicio, se aborda la configuración básica de una aplicación ASP.NET C
 - .NET Core SDK 5.0 o superior
 - MySQL Server 10.11.2 o superior
 
-## :gear: Configuración
-
-1. Clona este repositorio en tu máquina local.
-2. Abre el archivo `appsettings.json` en la carpeta `Exercicio1` y configura la cadena de conexión a tu base de datos MySQL en la clave `"ConnectionStrings"`.
-3. Asegúrate de que tengas una base de datos MySQL creada para la aplicación.
-
 ## :rocket: Instrucciones
 
 1. Ejecuta `dotnet restore` en la raíz del proyecto para restaurar las dependencias.
@@ -54,12 +48,6 @@ En este ejercicio, se implementa una API ASP.NET Core para administrar asignacio
 
 - .NET Core SDK 5.0 o superior
 - MySQL Server 10.11.2 o superior
-
-## :gear: Configuración
-
-1. Clona este repositorio en tu máquina local.
-2. Abre el archivo `appsettings.json` en la carpeta `Exercicio2` y configura la cadena de conexión a tu base de datos MySQL en la clave `"ConnectionStrings"`.
-3. Asegúrate de que tengas una base de datos MySQL creada para la aplicación.
 
 ## :rocket: Instrucciones
 
@@ -92,12 +80,6 @@ En este ejercicio, se abordan varios ejemplos de configuración de una aplicación
 - .NET Core SDK 5.0 o superior
 - MySQL Server 10.11.2 o superior
 
-## :gear: Configuración
-
-1. Clona este repositorio en tu máquina local.
-2. Abre el archivo `appsettings.json` en la carpeta `Exercicio3` y configura la cadena de conexión a tu base de datos MySQL en la clave `"ConnectionStrings"`.
-3. Asegúrate de que tengas una base de datos MySQL creada para la aplicación.
-
 ## :rocket: Instrucciones
 
 1. Ejecuta `dotnet restore` en la raíz del proyecto para restaurar las dependencias.
@@ -129,12 +111,6 @@ En este ejercicio, se implementa una API ASP.NET Core para administrar investiga
 
 - .NET Core SDK 5.0 o superior
 - MySQL Server 10.11.2 o superior
-
-### :gear: Configuración
-
-1. Clona este repositorio en tu máquina local.
-2. Abre el archivo `appsettings.json` en la carpeta `Exercicio4` y configura la cadena de conexión a tu base de datos MySQL en la clave `"ConnectionStrings"`.
-3. Asegúrate de que tengas una base de datos MySQL creada para la aplicación.
 
 ### :rocket: Instrucciones
 
